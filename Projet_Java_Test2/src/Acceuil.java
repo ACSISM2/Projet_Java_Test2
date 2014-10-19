@@ -11,6 +11,7 @@ public class Acceuil {
 		System.out.println("Date : " + d.toString());
 		System.out.println("Je suis Dev2");
 		System.out.println("Alors ???");
+		System.out.println("c bon oublie");
 	}
 
 }
